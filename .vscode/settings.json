@@ -6,4 +6,7 @@
     "code-runner.ignoreSelection": true,
     "code-runner.saveFileBeforeRun": true,
     "C_Cpp.debugShortcut": false,
+    "files.associations": {
+        "stdio.h": "c"
+    },
 }
